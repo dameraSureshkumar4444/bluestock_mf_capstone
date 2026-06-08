@@ -1,0 +1,6 @@
+amfi_code,cagr_3yr,sharpe_ratio,alpha_pct,max_drawdown_pct,expense_ratio_pct,return_rank,sharpe_rank,alpha_rank,expense_rank,drawdown_rank,raw_score,fund_score,scheme_name
+119551,30.46,1.4173751190567792,23.201,-15.01,1.54,1.0,1.0,1.0,3.0,3.0,1.5,100.0,SBI Bluechip Fund - Regular Plan - Growth
+118632,22.65,1.2617425946671716,21.8294,-17.41,1.51,2.0,2.0,2.0,2.0,4.0,2.2,78.12,Nippon India Large Cap Fund - Regular - Growth
+120503,13.98,0.9155533152963043,17.7033,-13.9,1.42,4.0,3.0,3.0,1.0,1.0,2.8,59.38,ICICI Pru Bluechip Fund - Regular - Growth
+120841,17.27,0.5611592114898598,13.0429,-17.57,1.59,3.0,4.0,4.0,4.0,5.0,3.8000000000000003,28.12,Kotak Bluechip Fund - Regular - Growth
+119092,0.53,0.0483259423925141,6.8995,-14.4,1.64,5.0,5.0,5.0,5.0,2.0,4.7,0.0,Axis Bluechip Fund - Regular - Growth
